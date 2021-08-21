@@ -1,9 +1,2 @@
 Hello world
-
-ctrl + s = salvar
-minecraft
-ctrl + a = selecionar tudo
-mano o que
-ta acho que to entendendo
-mano o que
-ta eu to editando coisas aqui ué
+estou escrevendo algo
