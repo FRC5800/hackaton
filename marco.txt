@@ -1,3 +1,5 @@
 Hello world
 
 ctrl + s = salvar
+minecraft
+ctrl + a = selecionar tudo
