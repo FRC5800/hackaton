@@ -4,3 +4,4 @@ ctrl + s - salva
 shift + del = apaga linha inteira
 abc de
 afkajflkaj
+alteracaoooooooooooooo
