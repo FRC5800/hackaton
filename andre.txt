@@ -1,0 +1,9 @@
+Hello world
+
+ctrl + s - salvar
+
+shift + del - aaga linha inteira
+crtl + setas - vai pulando de palavra em palavra
+shift + ctrl + seta - vai selecionando de palavra em palavra
+home/end - vai para o inicio/fim da linha
+ctrl + home/end - vai para o inicio/fim do arquivo
