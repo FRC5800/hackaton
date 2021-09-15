@@ -1,0 +1,5 @@
+Hello world
+ctrl + s - salvar
+shift + del - apaga linha inteira
+Hello world 2
+
